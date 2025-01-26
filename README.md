@@ -1,6 +1,7 @@
 # subrenamer
 Bash and perl rename based file renamer for subtitles and other files where
-referencing another group of files is needed.
+you want to match the format of another group of files
+with a fixed numbering scheme
 
 ## Dependency
 GNU grep
